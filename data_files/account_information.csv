@@ -1,0 +1,201 @@
+bank_account_id,account_number,account_name,sort_code,bank_name,owner_id
+1,72740683,Galvin Brauninger,18-95-44,Cynergy Bank,100000
+2,50825452,Sonja Reyson,63-22-17,Citibank,100001
+3,83819962,Brina De Carlo,42-29-76,Co-operative Bank,100002
+4,32192780,Dre Escoffier,65-25-83,HSBC Bank,100003
+5,65906934,Carey Ballsdon,53-35-53,Goldman Sachs International,100004
+6,6134379,Kenna Luff,05-47-65,Citibank,100005
+7,62845172,Davin Slayton,20-85-79,Aldermore Bank,100006
+8,31296611,Saundra Folshom,68-32-51,Co-operative Bank,100007
+9,22943532,Karyn Barefoot,72-38-68,Citibank,100008
+10,87437815,Munroe Whitticks,35-95-64,FCMB Bank,100009
+11,72276564,Aloysia Fairburne,49-95-61,Citibank,100010
+12,96045909,Cordie Eames,69-34-86,FCMB Bank,100011
+13,99688921,Devlin Rodolfi,13-25-58,Lyodyds Bank,100012
+14,70652471,Floyd Scotchforth,28-91-60,Aldermore Bank,100013
+15,41692426,Lyndy Tuffley,23-97-60,Citibank,100014
+16,27227181,Nonnah Donett,78-13-27,Aldermore Bank,100015
+17,20571098,Philippe Osburn,57-84-44,Lyodyds Bank,100016
+18,7989115,Ruprecht Cowup,88-50-16,Citibank,100017
+19,125559,Worden Lowings,47-55-98,Aldermore Bank,100018
+20,27331627,Lee Rowter,26-94-96,Lyodyds Bank,100019
+21,94382793,Drud Marsay,04-69-76,Co-operative Bank,100020
+22,84055144,Georgeanna Spurgeon,09-15-33,Goldman Sachs International,100021
+23,44818512,Nicholas Syder,23-61-05,HSBC Bank,100022
+24,77853158,Michal Stapele,83-69-95,Citibank,100023
+25,62684973,Gladi Senn,56-49-04,Goldman Sachs International,100024
+26,15547718,Donnamarie Eckford,15-58-42,Lyodyds Bank,100025
+27,49972631,Isidro Wessel,41-57-92,Citibank,100026
+28,19862089,Ardenia Sandeson,56-98-22,Cynergy Bank,100027
+29,7219747,Dorris Yelyashev,27-71-63,Co-operative Bank,100028
+30,74539500,Wells Holgan,04-93-14,Lyodyds Bank,100029
+31,77026367,Anet Sprules,04-69-06,Lyodyds Bank,100030
+32,84351970,Melissa Navarre,46-13-42,Goldman Sachs International,100031
+33,7254100,Kass Beavors,68-84-11,Citibank,100032
+34,77739211,Fae Hachard,16-90-61,Lyodyds Bank,100033
+35,21098455,Rolf Petersen,90-33-05,Bank of Scotland,100034
+36,70580153,Sianna Brabbs,27-98-58,Co-operative Bank,100035
+37,28334500,Kingsly Handley,42-44-69,Citibank,100036
+38,41138645,Winni Cordelet,95-41-46,Citibank,100037
+39,27148481,Roxane Potzold,00-81-66,Lyodyds Bank,100038
+40,63014133,Andie Olin,57-60-96,FCMB Bank,100039
+41,21663275,Lon Sexon,78-56-82,Citibank,100040
+42,42627179,Kristy Sponder,19/03/1949,Citibank,100041
+43,5966793,Ringo Keerl,33-91-33,Goldman Sachs International,100042
+44,39532566,Darb Shorton,70-94-24,Citibank,100043
+45,98852326,Lorelle Hallick,62-21-43,HSBC Bank,100044
+46,98378496,Gard Harkness,48-16-60,Bank of Scotland,100045
+47,28909562,Jeanine Purvey,02/06/1952,Goldman Sachs International,100046
+48,85447914,Riley Bickerstasse,44-06-08,Citibank,100047
+49,28558010,Worthington Colaco,90-64-60,Goldman Sachs International,100048
+50,48950249,Estella Schulken,12-60-80,FCMB Bank,100049
+51,40014146,Montague Lamden,49-90-47,FCMB Bank,100050
+52,15236725,Conny Carswell,89-79-83,Goldman Sachs International,100051
+53,77371134,Bev McGarry,59-31-13,Bank of Scotland,100052
+54,94574073,Glennis Houchin,87-99-59,FCMB Bank,100053
+55,53316965,Ilaire Foresight,24-29-18,FCMB Bank,100054
+56,65423525,Dino Cruikshank,66-48-55,FCMB Bank,100055
+57,48322308,Radcliffe Bagster,13-00-04,Citibank,100056
+58,71825606,Mattie Parsand,72-35-99,Cynergy Bank,100057
+59,22154962,Meriel Spinney,39-99-89,Bank of Scotland,100058
+60,6554655,Danica Wincott,55-07-28,FCMB Bank,100059
+61,34859010,Arda Hafner,38-10-57,Citibank,100060
+62,20378056,Cayla Boutwell,91-57-30,FCMB Bank,100061
+63,10207681,Gallard Strivens,91-34-22,Aldermore Bank,100062
+64,99238550,Marcelia Hotchkin,79-81-02,Citibank,100063
+65,19856855,Regina Swinburn,21-25-91,Co-operative Bank,100064
+66,11592449,Garnette Aldrin,20-37-27,Bank of Scotland,100065
+67,52163473,Lennard Eberdt,95-59-64,Lyodyds Bank,100066
+68,69249171,Sandie Kerswill,45-17-65,FCMB Bank,100067
+69,69077698,Josephina Dursley,88-65-21,Citibank,100068
+70,45122369,Obadiah Van De Cappelle,02-67-18,Co-operative Bank,100069
+71,26991848,Livvie Chinn,11-00-58,Aldermore Bank,100070
+72,40561216,Tris Fotherby,05-33-03,HSBC Bank,100071
+73,64246725,Roberta Reace,70-99-78,HSBC Bank,100072
+74,35611726,Maxine Halladey,09-56-17,Lyodyds Bank,100073
+75,99376196,Catie Inge,07-33-80,Bank of Scotland,100074
+76,27517650,Ulysses Kalinovich,42-37-49,Co-operative Bank,100075
+77,105534,Fraze Millan,66-90-14,Cynergy Bank,100076
+78,13705525,Zechariah Parramore,23-84-58,Citibank,100077
+79,1706406,Brooks Tettersell,11-33-03,FCMB Bank,100078
+80,56253522,Michaella Benge,03-42-42,HSBC Bank,100079
+81,74895442,Maurine Seeman,52-78-64,Co-operative Bank,100080
+82,41966927,Rube Delaprelle,23-87-82,Citibank,100081
+83,49469243,Davine Habin,02-80-78,HSBC Bank,100082
+84,75913341,Kelly Klisch,00-40-50,HSBC Bank,100083
+85,8178646,Karleen Soda,19-80-90,Bank of Scotland,100084
+86,76095603,Jess McKernon,33-71-04,HSBC Bank,100085
+87,34457525,Lizzie Westwick,36-91-48,Bank of Scotland,100086
+88,2574732,Ardyce Hakonsson,17-75-50,Lyodyds Bank,100087
+89,33293283,Sharyl Brosnan,25-23-96,Aldermore Bank,100088
+90,56728391,Krystal Harpur,23-80-24,Lyodyds Bank,100089
+91,82518536,Abraham Blagburn,18-95-75,Citibank,100090
+92,54984653,Donelle Scarth,88-58-85,Citibank,100091
+93,47758723,Susie Gartside,73-70-82,Aldermore Bank,100092
+94,80251237,Silvanus Stutard,40-68-53,Cynergy Bank,100093
+95,41011423,Davy Winn,22-98-51,Bank of Scotland,100094
+96,22767056,Bertram Mylan,70-76-94,Citibank,100095
+97,12612063,Charlene Turfes,59-55-26,Aldermore Bank,100096
+98,65532844,Zak Rime,44-25-13,Bank of Scotland,100097
+99,29508796,Mureil Fermor,07-80-52,FCMB Bank,100098
+100,60588794,Aurie Caygill,40-45-29,Citibank,100099
+101,69492178,Kelley Screen,01-40-43,Citibank,100100
+102,25615473,Fulton Kroger,18-90-32,Co-operative Bank,100101
+103,59019636,Gothart Cyson,08-31-24,Co-operative Bank,100102
+104,18388231,Berk Atcherley,44-26-67,Bank of Scotland,100103
+105,18273786,Horacio Claydon,69-28-76,HSBC Bank,100104
+106,25900722,Dimitry Gornal,68-39-46,Lyodyds Bank,100105
+107,42093113,Hill Prinett,98-77-70,HSBC Bank,100106
+108,81701623,Rici Alcorn,56-51-43,Co-operative Bank,100107
+109,72650172,Aprilette Bradborne,87-62-43,Goldman Sachs International,100108
+110,6565037,Payton Sockell,06-84-71,Bank of Scotland,100109
+111,8702286,Alidia Nagle,18-86-96,HSBC Bank,100110
+112,3624937,Coletta Ruff,38-95-46,HSBC Bank,100111
+113,77773533,Letti Posselwhite,13-88-99,HSBC Bank,100112
+114,88194018,Lenette Hastwell,84-33-31,Bank of Scotland,100113
+115,83910558,Odelinda Goodliffe,69-57-66,FCMB Bank,100114
+116,87346799,Ad Hele,69-98-74,Co-operative Bank,100115
+117,61447264,Marcy Meddings,70-73-21,HSBC Bank,100116
+118,31161704,Alleyn Rotham,10/09/2008,FCMB Bank,100117
+119,87287032,Sinclair Jellis,59-66-61,Lyodyds Bank,100118
+120,79492644,Sigvard Wiersma,03-48-81,FCMB Bank,100119
+121,30296599,Stanislaus Benettolo,48-52-86,Goldman Sachs International,100120
+122,63626019,Noell Miguel,51-57-94,Lyodyds Bank,100121
+123,56810370,Davy Mynett,40-73-61,Goldman Sachs International,100122
+124,96944065,Mordy Sopper,31-79-97,Goldman Sachs International,100123
+125,28787591,Virgie Malpass,88-68-29,Aldermore Bank,100124
+126,63562944,Angele Skryne,32-00-30,Citibank,100125
+127,45986314,Jacky Stable,41-25-47,Bank of Scotland,100126
+128,50636929,Barde Tregian,11/10/1995,Goldman Sachs International,100127
+129,51818369,Nessy Lowson,09-35-09,Co-operative Bank,100128
+130,11593705,Clareta Poletto,94-24-85,Cynergy Bank,100129
+131,25934744,Sibyl Borrie,54-03-20,Citibank,100130
+132,39343145,Bobina Levesley,79-76-70,HSBC Bank,100131
+133,45974215,Eva Chesswas,29-51-46,Cynergy Bank,100132
+134,28667963,Mickie Clearie,13-82-27,HSBC Bank,100133
+135,36202517,Jeremie Ghiron,64-13-95,Cynergy Bank,100134
+136,37472344,Ravid Bulled,25-62-23,Bank of Scotland,100135
+137,32803197,Felic Arrandale,61-00-09,Goldman Sachs International,100136
+138,36266844,Aile Digle,93-35-56,Co-operative Bank,100137
+139,87473137,Archaimbaud Huguenet,68-42-61,Citibank,100138
+140,74114237,Chelsy Easeman,83-70-07,Bank of Scotland,100139
+141,78896625,Sarge Cusack,81-00-21,Bank of Scotland,100140
+142,19544683,Gordie Footitt,75-88-89,Lyodyds Bank,100141
+143,12807084,Meris Attridge,13-40-01,Citibank,100142
+144,12033703,Gordan Keneford,70-31-24,Co-operative Bank,100143
+145,77535948,Frederich Auckland,72-55-48,Bank of Scotland,100144
+146,33782916,Jamison Beardshaw,97-27-87,HSBC Bank,100145
+147,8183660,Brandie Durrell,37-08-45,Lyodyds Bank,100146
+148,6589768,Ignacio Eyckel,51-93-13,HSBC Bank,100147
+149,51425207,Myranda MacDearmaid,24-40-88,FCMB Bank,100148
+150,7879237,Frederica Howcroft,73-29-07,Bank of Scotland,100149
+151,28238978,Nissie Ainslie,21-48-28,Citibank,100150
+152,94594145,Ezechiel Moncreif,12/05/2000,Cynergy Bank,100151
+153,73498208,Ervin Roddick,22-13-97,Goldman Sachs International,100152
+154,8012429,Tina Rodolico,13-26-46,Bank of Scotland,100153
+155,38941383,Clemmie Beiderbecke,29-69-00,HSBC Bank,100154
+156,28930182,Budd Rothchild,15-41-71,HSBC Bank,100155
+157,9671069,Broddy Van Dalen,64-25-80,HSBC Bank,100156
+158,93423037,Bobbie Tremblot,78-63-60,FCMB Bank,100157
+159,51261757,Prinz Toulson,22-85-02,Cynergy Bank,100158
+160,59635405,Ave Muckart,38-73-45,Lyodyds Bank,100159
+161,62222649,Fannie Shailer,88-01-44,Co-operative Bank,100160
+162,18908194,Edsel Brookes,53-99-17,Aldermore Bank,100161
+163,43387650,Lyda Hudleston,80-92-77,Citibank,100162
+164,29481590,Lil Felton,92-93-08,FCMB Bank,100163
+165,57186356,Ricky Wale,37-98-67,Bank of Scotland,100164
+166,30116694,Claus Elcombe,26-66-96,Aldermore Bank,100165
+167,92342082,Adolphus McTrustam,53-08-21,Citibank,100166
+168,32529471,Ursulina Frede,47-65-68,Aldermore Bank,100167
+169,68474667,Jelene Birden,87-57-01,FCMB Bank,100168
+170,34713903,Ailis Kellen,54-74-18,Cynergy Bank,100169
+171,68642704,Tommy McTeague,85-62-28,Co-operative Bank,100170
+172,2662678,Brit Kimbury,98-51-98,Bank of Scotland,100171
+173,16209591,Kipper Kilshall,54-93-36,FCMB Bank,100172
+174,76828573,Pietro Calbrathe,28-92-48,Citibank,100173
+175,53653363,Gwen Brackpool,28-62-39,Bank of Scotland,100174
+176,68743416,Valina Brandom,21-36-85,FCMB Bank,100175
+177,33363889,Harlie Whistan,20/07/1970,Co-operative Bank,100176
+178,6737896,Kalvin Quadri,19-53-07,Aldermore Bank,100177
+179,65476499,Annalise Galland,68-88-67,Lyodyds Bank,100178
+180,68209842,Jobyna Hakey,74-24-79,Lyodyds Bank,100179
+181,80957126,Darby Dennitts,39-72-62,Lyodyds Bank,100180
+182,76604450,Ingeborg Heaselgrave,72-74-73,Citibank,100181
+183,27784533,Bliss Smorthit,98-42-42,Citibank,100182
+184,90104781,Perrine Coppenhall,46-16-33,Aldermore Bank,100183
+185,38696356,Forster O' Connell,18-27-89,Citibank,100184
+186,76255761,Delmer Picheford,09-18-58,Lyodyds Bank,100185
+187,59506488,Artur McDougald,54-72-68,Aldermore Bank,100186
+188,27194924,Gilbertine Butterick,54-99-14,Cynergy Bank,100187
+189,4518010,Kathy Evenden,96-34-37,Goldman Sachs International,100188
+190,60583542,Drucy Iglesia,41-28-92,Co-operative Bank,100189
+191,72796305,Regine Hoolaghan,47-95-98,Goldman Sachs International,100190
+192,13766969,Wade Ellicombe,45-23-96,Co-operative Bank,100191
+193,2831713,Paola Simunek,47-11-79,FCMB Bank,100192
+194,7149242,Doris MacColl,61-99-22,HSBC Bank,100193
+195,23730279,Goran Pelzer,08-13-60,HSBC Bank,100194
+196,18943581,Floria Lemasney,86-78-70,FCMB Bank,100195
+197,99087878,Demetra Kingzet,93-44-48,Citibank,100196
+198,50809243,Karyn Guilloud,34-59-02,HSBC Bank,100197
+199,38415481,Lefty Hansed,56-39-92,Cynergy Bank,100198
+200,15615514,Padraig Dablin,59-78-65,FCMB Bank,100199

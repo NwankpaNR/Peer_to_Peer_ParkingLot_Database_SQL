@@ -1,0 +1,101 @@
+review_id,parking_space_id,comment,rating,driver_id,review_date
+300001,800000,The customer service team was unhelpful when I tried to resolve an issue with my booking.,2,50029,2021-05-17
+300002,800001,"I've had multiple negative experiences with this app, including double-bookings and inaccurate availability information.",1,50145,2022-01-19
+300003,800002,This app has a lot of fake or spam listings that make it difficult to find a legitimate parking spot.,2,50432,2021-12-06
+300004,800003,I've had issues with my payment information being processed correctly on this app.,1,50083,2022-01-24
+300005,800004,The customer service team is not helpful or knowledgeable when it comes to resolving issues.,2,50586,2022-02-12
+300006,800005,I've had issues with my payment information being processed correctly on this app.,2,50334,2021-10-13
+300007,800006,The reviews and ratings for parking spots on this app seem fake and manufactured.,1,50328,2022-03-06
+300008,800007,The parking spots I've rented using this app have often been overbooked and unavailable.,2,50366,2022-07-30
+300009,800008,This app has a lot of hidden fees and charges that aren't clearly disclosed.,2,50205,2021-08-27
+300010,800009,The process of renting a parking spot on this app is unnecessarily complicated.,1,50419,2021-08-19
+300011,800010,This app has a lot of bugs and glitches that make it difficult to use.,2,50550,2022-03-31
+300012,800011,"The parking spot I rented using this app was much smaller than I anticipated, making it difficult to fit my car.",1,50574,2022-03-16
+300013,800012,"I've had multiple negative experiences with this app, including double-bookings and inaccurate availability information.",1,50102,2021-08-30
+300014,800013,This app has a lot of technical issues that need to be addressed.,1,50299,2022-12-08
+300015,800014,The customer service team is not helpful or knowledgeable when it comes to resolving issues.,2,50219,2021-09-25
+300016,800015,The parking spot I rented using this app was already taken when I arrived.,1,50130,2021-07-18
+300017,800016,The customer service team was unhelpful when I tried to resolve an issue with my booking.,2,50459,2023-01-19
+300018,800017,The process of renting a parking spot on this app is very convoluted and confusing.,1,50412,2022-11-21
+300019,800018,The customer service team is rude and unprofessional when dealing with issues.,1,50185,2022-07-12
+300020,800019,The parking spots I've rented using this app have often been misrepresented in photos and descriptions.,2,50588,2021-08-21
+300021,800020,"The parking spot I rented using this app was much smaller than I anticipated, making it difficult to park my car.",2,50346,2022-06-30
+300022,800021,The prices for parking on this app are often much higher than what other apps offer for the same spots.,1,50349,2021-09-24
+300023,800022,The reviews and ratings for parking spots on this app seem fake and manufactured.,1,50120,2021-06-29
+300024,800023,I've had issues with my payment information being processed correctly on this app.,2,50239,2022-09-27
+300025,800024,The process of booking a parking spot on this app was much more time-consuming than I expected.,2,50127,2021-06-25
+300026,800025,The reviews and ratings for parking spots on this app seem fake and manufactured.,1,50406,2022-09-18
+300027,800026,The parking spot I rented using this app was in a very sketchy area.,1,50481,2022-01-22
+300028,800027,The parking spots I've rented using this app have often been overbooked and unavailable.,2,50001,2022-06-17
+300029,800028,The prices for parking on this app are often much higher than what other apps offer for the same spots.,1,50530,2021-05-18
+300030,800029,The reviews and ratings for parking spots on this app seem unreliable and inconsistent.,2,50099,2023-01-07
+300031,800030,The parking spot I rented using this app was very difficult to access and maneuver in my car.,2,50333,2022-03-09
+300032,800031,"The parking spot I rented using this app was much smaller than I anticipated, making it difficult to fit my car.",2,50415,2021-11-04
+300033,800032,This app has a lot of hidden fees and charges that aren't clearly disclosed.,2,50284,2021-09-16
+300034,800033,The customer service team is difficult to get in touch with and unresponsive to inquiries.,1,50574,2022-01-07
+300035,800034,This app has a lot of technical issues that need to be addressed.,1,50096,2022-07-03
+300036,800035,I booked a parking spot on this app and it ended up being much further from my destination than I anticipated.,1,50436,2021-08-11
+300037,800036,The parking spots I've rented using this app have often been overbooked and unavailable.,1,50142,2021-10-17
+300038,800037,The customer service team was unhelpful when I tried to resolve an issue with my booking.,2,50116,2022-10-16
+300039,800038,I've had issues with my payment information being processed correctly on this app.,1,50241,2021-10-29
+300040,800039,The customer service team is rude and unprofessional when dealing with issues.,1,50336,2023-01-17
+300041,800040,I booked a parking spot on this app and it ended up being much further from my destination than I anticipated.,1,50318,2022-05-25
+300042,800041,The customer service team is difficult to get in touch with and unresponsive to inquiries.,2,50240,2022-03-04
+300043,800042,The parking spot I rented using this app was very difficult to access and maneuver in my car.,2,50055,2022-01-06
+300044,800043,The prices for parking on this app are often much higher than what is advertised.,2,50426,2022-11-14
+300045,800044,The prices for parking on this app are often much higher than what other apps offer for the same spots.,1,50503,2022-03-26
+300046,800045,The parking spots I've rented using this app have often been in poor condition and poorly maintained.,2,50276,2022-10-14
+300047,800046,The process of renting a parking spot on this app is not transparent and can be misleading.,1,50333,2022-08-31
+300048,800047,This app has a lot of technical issues that need to be addressed.,2,50552,2021-04-11
+300049,800048,This app has a lot of hidden fees and charges that aren't clearly disclosed.,1,50519,2021-11-21
+300050,800049,I booked a parking spot on this app and it ended up being much further from my destination than I anticipated.,2,50018,2022-08-21
+300051,800050,The customer service team is not helpful or knowledgeable when it comes to resolving issues.,2,50192,2022-09-29
+300052,800051,This app is a waste of time and money for anyone looking for reliable parking options.,2,50143,2021-11-02
+300053,800052,The customer service team is rude and unprofessional when dealing with issues.,1,50559,2022-12-30
+300054,800053,The prices for parking on this app are often much higher than what other apps offer for the same spots.,2,50124,2022-01-10
+300055,800054,This app has a very limited selection of parking spots in my area.,1,50155,2021-07-16
+300056,800055,The parking spot I rented using this app was in a very sketchy area.,1,50062,2021-05-21
+300057,800056,"I've had multiple negative experiences with this app, including double-bookings and inaccurate availability information.",1,50011,2021-06-27
+300058,800057,I booked a parking spot on this app and it ended up being much further from my destination than I anticipated.,2,50167,2021-11-03
+300059,800058,This app is not worth the investment for the low-quality parking spots available.,1,50058,2021-05-01
+300060,800059,The parking spots I've rented using this app have often been misrepresented in photos and descriptions.,2,50329,2022-05-14
+300061,800060,I booked a parking spot on this app and it ended up being much further from my destination than I anticipated.,1,50311,2022-06-18
+300062,800061,The parking spots I've rented using this app have often been overbooked and unavailable.,1,50533,2022-02-23
+300063,800062,The process of renting a parking spot on this app is unnecessarily complicated.,1,50097,2022-05-23
+300064,800063,The prices for parking on this app are often higher than what I would pay at a traditional parking garage.,1,50034,2021-09-06
+300065,800064,The reviews and ratings for parking spots on this app seem unreliable and inconsistent.,1,50180,2022-01-07
+300066,800065,The user interface is confusing and difficult to navigate.,2,50007,2021-09-01
+300067,800066,The reviews and ratings for parking spots on this app seem unreliable and inconsistent.,1,50540,2021-09-11
+300068,800067,The customer service team is rude and unprofessional when dealing with issues.,1,50109,2021-06-29
+300069,800068,I've had issues with my payment information being processed correctly on this app.,1,50374,2021-07-18
+300070,800069,The parking spots I've rented using this app have often been located in unsafe areas.,2,50249,2022-09-19
+300071,800070,This app has a lot of fake or spam listings that make it difficult to find a legitimate parking spot.,2,50345,2021-04-13
+300072,800071,This app is not reliable when it comes to accurate availability information for parking spots.,1,50539,2022-11-15
+300073,800072,"The parking spot I rented using this app was much smaller than I anticipated, making it difficult to fit my car.",2,50514,2022-02-19
+300074,800073,This app is a waste of time and money for anyone looking for reliable parking options.,1,50441,2022-12-24
+300075,800074,The customer service team is rude and unprofessional when dealing with issues.,2,50482,2021-08-27
+300076,800075,This app has a lot of technical issues that need to be addressed.,1,50414,2021-07-21
+300077,800076,The parking spot I rented using this app was very difficult to access and maneuver in my car.,1,50538,2022-10-15
+300078,800077,The parking spot I rented using this app was in a very sketchy area.,1,50259,2023-01-12
+300079,800078,The parking spots I've rented using this app have often been in inconvenient locations.,2,50020,2022-10-28
+300080,800079,The process of booking a parking spot on this app was much more time-consuming than I expected.,2,50135,2022-07-22
+300081,800080,The customer service team was unhelpful when I tried to resolve an issue with my booking.,2,50589,2022-04-25
+300082,800081,The prices for parking on this app are often higher than what I would pay at a traditional parking garage.,1,50496,2023-01-14
+300083,800082,I've had issues with my payment information being processed correctly on this app.,2,50246,2022-11-15
+300084,800083,"The parking spot I rented using this app was much smaller than I anticipated, making it difficult to park my car.",2,50448,2021-07-28
+300085,800084,The prices for parking on this app are often higher than what I would pay at a traditional parking garage.,1,50181,2022-03-16
+300086,800085,The customer service team is not helpful or knowledgeable when it comes to resolving issues.,2,50229,2021-10-16
+300087,800086,This app has a very limited selection of parking spots in my area.,1,50202,2021-04-08
+300088,800087,"The parking spot I rented using this app was much smaller than I anticipated, making it difficult to park my car.",2,50232,2022-06-13
+300089,800088,The prices for parking on this app are often inconsistent and unpredictable.,2,50303,2022-07-05
+300090,800089,This app has a lot of technical issues that need to be addressed.,1,50152,2022-08-05
+300091,800090,The parking spot I rented using this app was in a very sketchy area.,2,50543,2021-06-10
+300092,800091,This app has caused me more frustration and stress than it's worth.,1,50325,2021-08-19
+300093,800092,The customer service team is rude and unprofessional when dealing with issues.,2,50502,2022-05-16
+300094,800093,This app has a very limited selection of parking spots in my area.,2,50086,2021-07-02
+300095,800094,The process of renting a parking spot on this app is very convoluted and confusing.,1,50027,2022-03-13
+300096,800095,The process of renting a parking spot on this app is unnecessarily complicated.,2,50575,2022-05-29
+300097,800096,The reviews and ratings for parking spots on this app seem unreliable and inconsistent.,1,50122,2022-07-20
+300098,800097,This app is not worth the investment for the low-quality parking spots available.,1,50325,2022-08-15
+300099,800098,The prices for parking on this app are often much higher than what is advertised.,2,50108,2022-11-01
+300100,800099,The prices for parking on this app are often much higher than what is advertised.,2,50257,2022-04-10
